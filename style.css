@@ -1,0 +1,22 @@
+body{
+    margin 0px;
+}
+h1{
+font-size: 50px;
+}
+.name-highlight{
+    color: chartreuse;
+}
+.half-width{
+    width: 5%
+    float:left;
+    margin-left: 40%;
+    padding-left:2%;
+}
+.top-banner{
+     background-image:url("images/sb.PNG");
+     border:1px solid red;
+}
+.section{
+    width:500px;
+}
